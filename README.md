@@ -37,3 +37,14 @@ This subsystem is ideal if you love:
 - Gain hands-on skills in electronics integration and enclosure prototyping
 
 
+<p>
+  <img src="./Block%20diagram.png" alt="Simple block diagram of the subsystem" width="400">
+  <br>
+  <em>Figure 1: Simple block diagram of the subsystem</em>
+</p>
+
+<p>
+  <img src="./Proposed_Passive_Stabilizer_Mechanism.png" alt="Simple block diagram of the subsystem" width="400">
+  <br>
+  <em>Figure 2: Proposed passive stabilizer mechanism</em>
+</p>
